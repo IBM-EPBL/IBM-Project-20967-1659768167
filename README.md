@@ -12,3 +12,5 @@ Team member 1 : Deepak B
 Team member 2 : Hemapprabha K 
 
 Team member 3 : Karthikeyan R
+
+![image](https://user-images.githubusercontent.com/101255505/194747536-77bb3080-4454-42a1-bc3a-e63f4afda2df.png)
