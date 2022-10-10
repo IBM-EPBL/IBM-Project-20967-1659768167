@@ -13,5 +13,4 @@ Team member 2 : Hemapprabha K
 
 Team member 3 : Karthikeyan R
 
-![image](https://user-images.githubusercontent.com/101255505/194795746-2879c613-7733-4eba-bf90-234aa6eeb086.png)
 
